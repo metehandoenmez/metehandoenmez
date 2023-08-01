@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Metehan Dönmez 👋
 
-![banner](https://github.com/metehandoenmez/metehandoenmez/assets/123425785/2b8c81fc-7d1e-4641-9d13-0abe0fb1aeed)
+![Screenshot 2023-08-01 223334](https://github.com/metehandoenmez/metehandoenmez/assets/123425785/f0bbfb76-1470-4ae2-83a8-93e91da955fe)
+
 
 
 I am a passionate Full Stack Software Developer. I build web applications and spend hours to add "that" feature 💫.
