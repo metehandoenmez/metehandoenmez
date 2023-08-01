@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Metehan Dönmez 👋
 
-![Metehan Dönmez](https://your-image-url.com/your-image.png)
+![banner](https://github.com/metehandoenmez/metehandoenmez/assets/123425785/2b8c81fc-7d1e-4641-9d13-0abe0fb1aeed)
 
-I am a passionate Full Stack Software Developer, with a love for building web applications and solving complex problems. Welcome to my GitHub profile!
+
+I am a passionate Full Stack Software Developer. I build web applications and spend hours to add "that" feature 💫.
+#### Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
