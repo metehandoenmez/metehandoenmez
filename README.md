@@ -23,14 +23,15 @@ I am a passionate Full Stack Software Developer. I build web applications and sp
 
 ## 🔧 Technologies & Tools
 
-- Frontend: HTML, CSS, SASS, JavaScript, React
+- Frontend: HTML, CSS, SASS, TailwindCSS, JavaScript, TypeScript, React
 - Backend: Node.js, Express
 - Database: PostgreSQL
+- Mobile: React Native
 - Version Control: Git, GitHub
 
 ## 🌱 Currently Learning
 
-- Three.JS
+- Next.JS
 - Vue.JS
 
 
