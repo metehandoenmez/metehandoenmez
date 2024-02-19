@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-I am a passionate Full Stack Software Developer. I build web applications and spend hours to add "that" feature 💫.
+I am a passionate Full Stack Software Developer. I build web applications and spend hours to add "that" self thought feature 💫.
 #### Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
