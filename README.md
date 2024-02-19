@@ -23,7 +23,7 @@ I am a passionate Full Stack Software Developer. I build web applications and sp
 
 ## 🔧 Technologies & Tools
 
-- Frontend: HTML, CSS, SASS, TailwindCSS, JavaScript, TypeScript, React
+- Frontend: HTML, CSS, SASS, TailwindCSS, JavaScript, TypeScript, React, Next.Js
 - Backend: Node.js, Express
 - Database: PostgreSQL
 - Mobile: React Native
@@ -31,8 +31,8 @@ I am a passionate Full Stack Software Developer. I build web applications and sp
 
 ## 🌱 Currently Learning
 
-- Next.JS
-- Vue.JS
+- Three.JS
+- Framer Motion
 
 
 ## 📈 My Top Languages
